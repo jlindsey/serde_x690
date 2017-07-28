@@ -1,0 +1,6 @@
+[package]
+name = "x690"
+version = "0.1.0"
+authors = ["Josh Lindsey <Joshua.Lindsey@georgetown.edu>"]
+
+[dependencies]
