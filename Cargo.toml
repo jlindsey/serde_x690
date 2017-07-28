@@ -1,6 +1,12 @@
 [package]
 name = "x690"
 version = "0.1.0"
-authors = ["Josh Lindsey <Joshua.Lindsey@georgetown.edu>"]
+authors = ["Josh Lindsey <joshua.s.lindsey@gmail.com>"]
+description = "ASN.1 X.690 encoding and decoding library"
+readme = "README.md"
+repository = "https://github.com/jlindsey/x690"
+license = "MIT"
+keywords = ["ASN.1", "X.690", "DER", "BER", "CER", "ITU-T"]
+categories = ["cryptography", "encoding", "network-programming"]
 
 [dependencies]
